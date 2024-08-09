@@ -1,9 +1,126 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="3_9DtenubOyZ0ifWwHke">
-    <mxGraphModel>
+    <mxGraphModel dx="1222" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Click on&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Google Login&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=0.7;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_kNjNKf0S02t_AUnuqKa-51" target="_kNjNKf0S02t_AUnuqKa-4">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint x="319.99992283946904" y="240.1111111111111" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-8" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-5">
+          <mxGeometry x="-0.0085" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="_kNjNKf0S02t_AUnuqKa-4" target="_kNjNKf0S02t_AUnuqKa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-17" value="Get Authorization Grant Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-15">
+          <mxGeometry x="-0.0038" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-18" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-15">
+          <mxGeometry x="-0.0368" y="-2" relative="1" as="geometry">
+            <mxPoint x="5" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="_kNjNKf0S02t_AUnuqKa-4" target="_kNjNKf0S02t_AUnuqKa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-29" value="Post Auth Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-28">
+          <mxGeometry x="0.0055" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-34" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-28">
+          <mxGeometry x="-0.004" relative="1" as="geometry">
+            <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-62" value="Send JWT with user data&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-28">
+          <mxGeometry x="0.0055" y="-2" relative="1" as="geometry">
+            <mxPoint x="-98" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-63" value="7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-28">
+          <mxGeometry x="-0.004" relative="1" as="geometry">
+            <mxPoint x="-120" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-4" value="React App" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="_kNjNKf0S02t_AUnuqKa-7" target="_kNjNKf0S02t_AUnuqKa-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="150" />
+              <mxPoint x="580" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="_kNjNKf0S02t_AUnuqKa-7" target="_kNjNKf0S02t_AUnuqKa-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="240" />
+              <mxPoint x="1080" y="570" />
+              <mxPoint x="580" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-47" value="Received ID Token with User Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-40">
+          <mxGeometry x="0.4311" y="1" relative="1" as="geometry">
+            <mxPoint x="-26" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-48" value="6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-40">
+          <mxGeometry x="0.4385" y="-2" relative="1" as="geometry">
+            <mxPoint x="-18" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-7" value="Google Service" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="195" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-22" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="789.8387096774195" y="260" as="geometry">
+            <mxPoint x="-11" y="-99" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-23" value="Authorization Grant Code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="780.0048387096775" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="_kNjNKf0S02t_AUnuqKa-27" target="_kNjNKf0S02t_AUnuqKa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-37" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-36">
+          <mxGeometry x="-0.3997" y="1" relative="1" as="geometry">
+            <mxPoint x="-25" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-39" value="Exchange Auth Code with ID token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rounded=1;" vertex="1" connectable="0" parent="_kNjNKf0S02t_AUnuqKa-36">
+          <mxGeometry x="-0.3871" y="-1" relative="1" as="geometry">
+            <mxPoint x="-26" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="_kNjNKf0S02t_AUnuqKa-27" target="_kNjNKf0S02t_AUnuqKa-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="510" />
+              <mxPoint x="470" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-27" value="Node Sever" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kNjNKf0S02t_AUnuqKa-51" value="User" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="195" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
